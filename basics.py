@@ -1,5 +1,4 @@
 import datetime
-print("data i czas to:")
-print(datetime.datetime.now())
-
+mynow = datetime.datetime.now()
+print(mynow)
 
